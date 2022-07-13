@@ -1,5 +1,5 @@
 # A-Project-Work-on-Multinomial-Logistic-Regression
-Brief Description on Logistic and Multiple Logistic Regression.
+Brief Description on Logistic and Multinomial Logistic Regression.
 Data Description and analysis.
 Defining Response and Predictor Variables.
 Defining the category of response Variable(Y=0).
