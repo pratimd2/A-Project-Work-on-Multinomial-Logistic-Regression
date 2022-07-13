@@ -1,1 +1,1 @@
-# A-Project-Work-on-Multiple-Logistic-Regression
+# A-Project-Work-on-Multinomial-Logistic-Regression
